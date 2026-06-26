@@ -203,14 +203,6 @@ upi-fraud-detection/
 ✅ Basic historical patterning (simple counters for velocity checks)  
 ✅ CSV export of flagged transactions  
 
-## Scoring Criteria Coverage
-
-- **Rule Logic (35%)**: 6 comprehensive rules with weighted scoring
-- **UI Dashboard (25%)**: Modern, responsive dashboard with real-time updates
-- **Data Handling (20%)**: In-memory stores with velocity tracking
-- **Explaining & Reasoning (10%)**: Clear comments and reason codes throughout
-- **Code Quality (10%)**: Clean, modular, well-documented code
-
 ## Notes
 
 - Data is stored in-memory and will be lost when the server restarts
